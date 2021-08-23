@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/cachapas.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2017-10-17T14:47:09-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/214573711387</id>
+    <published>2017-10-17T14:47:09-04:00</published>
+    <updated>2017-10-17T14:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/mini-cachapas"/>
+    <title>Mini-Cachapas</title>
+    <s:type>Cachapas y Hallaquitas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/minicachapa.jpg?v=1599141097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Cachapas y Hallaquitas<br>
+        <strong>Precio: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Cachapas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214573711387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>854631003219</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214573580315</id>
+    <published>2017-10-17T14:47:08-04:00</published>
+    <updated>2017-10-17T14:47:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/cachapas5unidades"/>
+    <title>Cachapas 5 Unidades</title>
+    <s:type>Cachapas y Hallaquitas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/ccachapas.jpg?v=1598285693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Cachapas y Hallaquitas<br>
+        <strong>Precio: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cachapas 5 Unidades</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214573580315</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>854631003080</s:sku>
+      <s:grams>789</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214538190875</id>
+    <published>2017-10-17T14:41:36-04:00</published>
+    <updated>2017-10-17T14:41:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/cachapasenhoja"/>
+    <title>Cachapas en Hoja</title>
+    <s:type>Cachapas y Hallaquitas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/cACHAPASENHOJAA.jpg?v=1598285866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Cachapas y Hallaquitas<br>
+        <strong>Precio: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>Cachapas en Hoja</strong></span></p>
+<p>Tamales de Maiz Dulce</p>
+<p> 6 Unidades</p>
+<p>Lista para Calentar y Servir</p>
+<p><span style="text-decoration: underline;"><strong>Instrucciones:</strong></span></p>
+<p>Calentar en microondas o en sarten con un poco de agua,</p>
+<p>Mantener congeladas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AMALES DE MAIZ DULCE</s:tag>
+    <s:tag>CACHAPAS</s:tag>
+    <s:tag>CACHAPAS EN HOJA</s:tag>
+    <s:tag>TAMALES</s:tag>
+    <s:tag>TAMALES DE MAIZ</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214538190875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>854631003738</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214537830427</id>
+    <published>2017-10-17T14:41:35-04:00</published>
+    <updated>2017-10-17T14:41:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/hallaquitas"/>
+    <title>Hallaquitas</title>
+    <s:type>Cachapas y Hallaquitas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Mini_Hallacas_Pimenton_1_935cd31b-8a3c-4bab-89a6-e7e8f223c96c.jpg?v=1563985942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Cachapas y Hallaquitas<br>
+        <strong>Precio: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hallaquitas hechas con harina pan</p>
+<p> </p>
+<p>Hallaquitas Blancas</p>
+<p>Hallaquitas de Pimenton y Aji Dulce</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hallaquitas</s:tag>
+    <s:tag>Hallaquitas Pimenton y Aji Dulce</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214537830427</id>
+      <title>Hallaquitas Blancas</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>854631003318</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214537830427</id>
+      <title>Hallaquita Pimenton y Aji Dulce</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>854631003301</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214537830427</id>
+      <title>Hallaquitas con Picante</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>709445797871</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

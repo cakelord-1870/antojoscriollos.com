@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/postres.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2020-08-18T10:44:55-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780654690413</id>
+    <published>2020-08-18T10:44:55-04:00</published>
+    <updated>2020-08-18T10:44:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/marquesa"/>
+    <title>MARQUESA</title>
+    <s:type>Postres</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName_56.jpg?v=1597761969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Postres<br>
+        <strong>Precio: </strong>
+            3.50 - 12.50
+            <a href="https://antojoscriollos.com/products/marquesa">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Chocolate (5oz) Pequena</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>10429</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Chocolate Grande</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>10430</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Caramelo y almendras (5oz) Pequena</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>10431</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Caramelo y Almendras Grande</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>10432</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Limon 5oz</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>10474</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa  de Ferrero 5oz</title>
+      <s:price currency="USD">4.88</s:price>
+      <s:sku>10475</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Arequipe 5oz</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>10476</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214546841627</id>
+    <published>2018-11-07T11:58:33-05:00</published>
+    <updated>2018-11-07T11:58:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/jaleademango"/>
+    <title>Jalea de Mango</title>
+    <s:type>Postres</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_072ee558-b68e-466f-a5f6-d6c2ad48e962.png?v=1599140576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Postres<br>
+        <strong>Precio: </strong>
+            7.50 - 12.00
+            <a href="https://antojoscriollos.com/products/jaleademango">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jalea de Mango</p>
+<p>8oz</p>
+<p>16oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jalea de Mango</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546841627</id>
+      <title>Jalea de Mango 8oz</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>854631003790</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546841627</id>
+      <title>Jalea de Mango 16oz</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>854631003783</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/412928376859</id>
+    <published>2018-07-10T11:21:06-04:00</published>
+    <updated>2018-07-10T11:21:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/golfeados4uni"/>
+    <title>Golfeados 6 Unidades</title>
+    <s:type>Postres</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/GOLFEADO.jpg?v=1598984493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Postres<br>
+        <strong>Precio: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/412928376859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>709445797857</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214574727195</id>
+    <published>2018-06-19T10:58:56-04:00</published>
+    <updated>2018-06-19T10:58:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/arrozconleche"/>
+    <title>Arroz con Leche</title>
+    <s:type>Postres</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/no-pic_57b0786e-9517-40dc-9554-3badd13f937a.png?v=1587506890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Postres<br>
+        <strong>Precio: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214574727195</id>
+      <title>Arroz con Leche 8oz</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>10149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214574727195</id>
+      <title>Arroz con Leche 16oz</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>10150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214546677787</id>
+    <published>2017-10-17T14:42:55-04:00</published>
+    <updated>2017-10-17T14:42:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/dulcedelechoza"/>
+    <title>Dulce de Lechoza</title>
+    <s:type>Postres</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/DULCEDELECHOSA.jpg?v=1598984301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Postres<br>
+        <strong>Precio: </strong>
+            7.00 - 12.75
+            <a href="https://antojoscriollos.com/products/dulcedelechoza">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dulce de Lechoza</p>
+<p>con pina </p>
+<p>con splenda (light)</p>
+<p>8 oz</p>
+<p>16oz</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dulce de Lechoza</s:tag>
+    <s:tag>Dulce de Lechoza con Pina</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza Original 8oz</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003271</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza Original 16oz</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>854631003264</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza con Pina 8oz</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza con Pina 16oz</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>1020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza con Splenda (Light) 16oz</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>10024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza con Splenda (Light) 8oz</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003769</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechosa 20oz (Envase de Vidrio)</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>10436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

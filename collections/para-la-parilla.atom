@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/para-la-parilla.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2020-05-05T10:15:28-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/4608148734061</id>
+    <published>2020-05-05T10:15:28-04:00</published>
+    <updated>2020-05-05T10:15:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tostones25lb"/>
+    <title>Tostones 2lb</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/tostones..jpg?v=1599578083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4608148734061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10484</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/412919234587</id>
+    <published>2017-12-06T11:02:15-05:00</published>
+    <updated>2017-12-06T11:02:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/asadonegro"/>
+    <title>Asado Negro</title>
+    <s:type>Carnicos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName21.jpg?v=1597759507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Carnicos<br>
+        <strong>Precio: </strong>
+            14.25 - 27.00
+            <a href="https://antojoscriollos.com/products/asadonegro">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/412919234587</id>
+      <title>Asado Negro 1.2lb</title>
+      <s:price currency="USD">14.25</s:price>
+      <s:sku>709445797796</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/412919234587</id>
+      <title>Asado Negro 2.5lb</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>709445797802</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214566273051</id>
+    <published>2017-10-17T14:46:00-04:00</published>
+    <updated>2017-10-17T14:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pollomechado"/>
+    <title>Pollo Mechado</title>
+    <s:type>Carnicos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/pollitomechado.jpg?v=1599577754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Carnicos<br>
+        <strong>Precio: </strong>
+            7.85 - 14.50
+            <a href="https://antojoscriollos.com/products/pollomechado">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pollo Mechado</p>
+<p>1.2lb</p>
+<p>2.5lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566273051</id>
+      <title>Pollo Mechado 1.2lb</title>
+      <s:price currency="USD">7.85</s:price>
+      <s:sku>709445797819</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566273051</id>
+      <title>Pollo Mechado 2.5lb</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>709445797826</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214565781531</id>
+    <published>2017-10-17T14:45:55-04:00</published>
+    <updated>2017-10-17T14:45:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/blackbeans"/>
+    <title>Black Beans</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName20.jpg?v=1597759713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            4.95 - 9.95
+            <a href="https://antojoscriollos.com/products/blackbeans">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caraotas Negras</p>
+<p>1.2lb</p>
+<p>2.5lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black beans</s:tag>
+    <s:tag>caraotas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214565781531</id>
+      <title>Black Beans 2.5lb</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>709445797772</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214565781531</id>
+      <title>Black Beans 1.2lb</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>709445797765</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214551035931</id>
+    <published>2017-10-17T14:43:41-04:00</published>
+    <updated>2017-10-17T14:43:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/carnemechada"/>
+    <title>Carne Mechada</title>
+    <s:type>Carnicos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName18.jpg?v=1598286644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Carnicos<br>
+        <strong>Precio: </strong>
+            13.00 - 24.55
+            <a href="https://antojoscriollos.com/products/carnemechada">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carne Mechada</p>
+<p>2.5lb</p>
+<p>1.2lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carne Mechada</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214551035931</id>
+      <title>Carne Mechada 1.2lb</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>709445797789</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214551035931</id>
+      <title>Carne Mechada 2.5lb</title>
+      <s:price currency="USD">24.55</s:price>
+      <s:sku>709445797758</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214545203227</id>
+    <published>2017-10-17T14:42:42-04:00</published>
+    <updated>2017-10-17T14:42:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/huevosdecodorniz50unidades"/>
+    <title>Huevos de Codorniz</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Codorniz.jpg?v=1563986024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            12.00 - 22.00
+            <a href="https://antojoscriollos.com/products/huevosdecodorniz50unidades">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hueos de Codorniz listos para comer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Codorniz</s:tag>
+    <s:tag>Huevitos de Codorniz</s:tag>
+    <s:tag>Huevos de Codorniz</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214545203227</id>
+      <title>50 unidades</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>854631003240</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214545203227</id>
+      <title>30 unidades jarra</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>10336</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

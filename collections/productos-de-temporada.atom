@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/productos-de-temporada.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2019-12-11T11:05:37-05:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/4441572671597</id>
+    <published>2019-12-11T11:05:37-05:00</published>
+    <updated>2019-12-11T11:05:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tortanegra"/>
+    <title>Torta Negra</title>
+    <s:type>Navideño</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/no-pic_8e901b3f-1512-432c-b7ce-33a08313682f.png?v=1587507041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Navideño<br>
+        <strong>Precio: </strong>
+            15.60 - 18.00
+            <a href="https://antojoscriollos.com/products/tortanegra">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Torta negra nadivena</p>
+<p> </p>
+<p>Con Lata</p>
+<p>Sin Lata</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navideno</s:tag>
+    <s:tag>Torta negra</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4441572671597</id>
+      <title>Torta Negra Con Lata</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>10055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4441572671597</id>
+      <title>Torta Negra Sin Lata</title>
+      <s:price currency="USD">15.60</s:price>
+      <s:sku>10056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4441544360045</id>
+    <published>2019-12-11T10:41:55-05:00</published>
+    <updated>2019-12-11T10:41:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pernil"/>
+    <title>Pernil</title>
+    <s:type>Carnicos</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/pernil.jpg?v=1576079105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Carnicos<br>
+        <strong>Precio: </strong>
+            25.99 - 60.00
+            <a href="https://antojoscriollos.com/products/pernil">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4441544360045</id>
+      <title>Pernil 3 libras</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>10334</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4441544360045</id>
+      <title>Pernil 6 libras</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>10335</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214565224475</id>
+    <published>2018-11-21T11:26:35-05:00</published>
+    <updated>2018-11-21T11:26:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pandehojaldrepavo"/>
+    <title>Pan de Hojaldre Pavo</title>
+    <s:type>Navideño</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/no-pic.png?v=1587506737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Navideño<br>
+        <strong>Precio: </strong>
+            28.50 - 35.00
+            <a href="https://antojoscriollos.com/products/pandehojaldrepavo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pan de Hojaldre</p>
+<p>Pavo</p>
+<p>Kosher</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pan de hojaldre</s:tag>
+    <s:tag>Pan de Pavo</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214565224475</id>
+      <title>Pan de Hojaldre Pavo</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>10053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214565224475</id>
+      <title>Pan de Hojaldre Pavo Kosher</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>10054</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214544744475</id>
+    <published>2018-06-19T10:58:54-04:00</published>
+    <updated>2018-06-19T10:58:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/bollitosnavideos"/>
+    <title>Bollitos Navideños</title>
+    <s:type>Navideño</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/b6ff02d5-dcda-41e2-8109-be13938a806d.jpg?v=1576079179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Navideño<br>
+        <strong>Precio: </strong>
+            4.25 - 4.50
+            <a href="https://antojoscriollos.com/products/bollitosnavideos">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bollito tradicional navideño</p>
+<p> </p>
+<p>Unidad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bollito</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544744475</id>
+      <title>Tradicionales</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>10014</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544744475</id>
+      <title>Vegetarianos</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>10506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214546677787</id>
+    <published>2017-10-17T14:42:55-04:00</published>
+    <updated>2017-10-17T14:42:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/dulcedelechoza"/>
+    <title>Dulce de Lechoza</title>
+    <s:type>Postres</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/DULCEDELECHOSA.jpg?v=1598984301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Postres<br>
+        <strong>Precio: </strong>
+            7.00 - 12.75
+            <a href="https://antojoscriollos.com/products/dulcedelechoza">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dulce de Lechoza</p>
+<p>con pina </p>
+<p>con splenda (light)</p>
+<p>8 oz</p>
+<p>16oz</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dulce de Lechoza</s:tag>
+    <s:tag>Dulce de Lechoza con Pina</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza Original 8oz</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003271</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza Original 16oz</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>854631003264</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza con Pina 8oz</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza con Pina 16oz</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>1020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza con Splenda (Light) 16oz</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>10024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechoza con Splenda (Light) 8oz</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003769</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546677787</id>
+      <title>Dulce de Lechosa 20oz (Envase de Vidrio)</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>10436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214544875547</id>
+    <published>2017-10-17T14:42:40-04:00</published>
+    <updated>2017-10-17T14:42:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pandejamon"/>
+    <title>Pan de Jamon</title>
+    <s:type>Navideño</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/2815.jpg?v=1576079364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Navideño<br>
+        <strong>Precio: </strong>
+            18.00 - 30.00
+            <a href="https://antojoscriollos.com/products/pandejamon">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pan relleno de jamon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bollitos Navideños</s:tag>
+    <s:tag>pan de hojaldre</s:tag>
+    <s:tag>Pan de jamon</s:tag>
+    <s:tag>pan de jamon de hojaldre</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544875547</id>
+      <title>Pan de Jamon Cocido</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>854631003622</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544875547</id>
+      <title>Pan de Jamon Crudo Congelado</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>10016</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544875547</id>
+      <title>Pan de Jamon- Hojaldre</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>10017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544875547</id>
+      <title>Pan de Jamon Hojaldre Crudo</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>10185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544875547</id>
+      <title>Pande Jamon con Queso Crema-Hojaldre</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>10018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214544547867</id>
+    <published>2017-10-17T14:42:35-04:00</published>
+    <updated>2017-10-17T14:42:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/hallacatradicional"/>
+    <title>Hallaca Tradicional</title>
+    <s:type>Navideño</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/2813.jpg?v=1604593964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Navideño<br>
+        <strong>Precio: </strong>
+            8.00 - 24.00
+            <a href="https://antojoscriollos.com/products/hallacatradicional">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tamales rellenos de carne, cerdo u otros.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hallaca</s:tag>
+    <s:tag>hallacas</s:tag>
+    <s:tag>navidad</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544547867</id>
+      <title>Hallaca Unidad</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>10012</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544547867</id>
+      <title>Hallaca Vegetariana</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>10187</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544547867</id>
+      <title>Hallacas 3-Pack</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>10013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

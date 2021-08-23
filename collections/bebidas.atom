@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/bebidas.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2020-08-18T10:56:34-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780640764013</id>
+    <published>2020-08-18T10:56:34-04:00</published>
+    <updated>2020-08-18T10:56:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/chicha"/>
+    <title>Chicha</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName36.jpg?v=1597761177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            3.15 - 6.30
+            <a href="https://antojoscriollos.com/products/chicha">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780640764013</id>
+      <title>16 oz</title>
+      <s:price currency="USD">3.15</s:price>
+      <s:sku>10422</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780640764013</id>
+      <title>32oz (1lt)</title>
+      <s:price currency="USD">6.30</s:price>
+      <s:sku>10500</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/1498344816749</id>
+    <published>2018-12-12T12:09:29-05:00</published>
+    <updated>2018-12-12T12:09:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/chichaelchicherotetrapack"/>
+    <title>Chicha el Chichero Tetrapack</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/chichaelchichero.jpg?v=1589314542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chicha</s:tag>
+    <s:tag>Chicha el chichero</s:tag>
+    <s:tag>el chichero</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/1498344816749</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10248</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214550675483</id>
+    <published>2018-05-03T16:05:45-04:00</published>
+    <updated>2018-05-03T16:05:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/aguanatural"/>
+    <title>Agua Natural</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/no-pic_be281e50-5a75-42ed-bc40-b0090c9223ac.png?v=1587506843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Agua</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214550675483</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>073430005044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214568665115</id>
+    <published>2017-10-17T14:46:25-04:00</published>
+    <updated>2017-10-17T14:46:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tefrica"/>
+    <title>Te Frica</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/te-frica.jpg?v=1526714400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Durazno y Limon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frica</s:tag>
+    <s:tag>Te frica</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214568665115</id>
+      <title>Te Frica Limon 500ml</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>10082</s:sku>
+      <s:grams>479</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214568665115</id>
+      <title>Te Frica Durazno 500ml</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>10083</s:sku>
+      <s:grams>7666</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214568534043</id>
+    <published>2017-10-17T14:46:24-04:00</published>
+    <updated>2017-10-17T14:46:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/jugofrica"/>
+    <title>Jugo Frica</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/jugos-jugo-frica-sabor-a-pera-paquete-de-4-botellas-1_1024x1024_5a72925e-ad0f-4df3-9c3b-1f32bb077d28.jpg?v=1526714345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            1.50 - 2.50
+            <a href="https://antojoscriollos.com/products/jugofrica">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naranja Manza y Durazno</p>
+<p>500ml</p>
+<p>1000ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frica</s:tag>
+    <s:tag>Jugo Frica</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214568534043</id>
+      <title>Jugo Frica Manzana 1000ml</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>791014023428</s:sku>
+      <s:grams>958</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214568534043</id>
+      <title>Jugo Frica Durazno 1000</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>7591014023435</s:sku>
+      <s:grams>958</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214568534043</id>
+      <title>Jugo Frica Naranja y Zanahoria 500ml</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>000</s:sku>
+      <s:grams>479</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214568534043</id>
+      <title>Jugo Frica Pera 1000ml</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>7591014007244</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214568534043</id>
+      <title>Jugo Frica Durazno 500ml</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>7591014026597</s:sku>
+      <s:grams>479</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214568534043</id>
+      <title>Jugo Frica Manzana 500ml</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>7591014026573</s:sku>
+      <s:grams>479</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214568534043</id>
+      <title>Jugo Frica Pera 500ml</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>7591014026580</s:sku>
+      <s:grams>479</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214560931867</id>
+    <published>2017-10-17T14:45:09-04:00</published>
+    <updated>2017-10-17T14:45:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/chichaelchichero"/>
+    <title>Chicha el Chichero 500gr</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/chucheras-chicha-el-chichero-paquete-de-500g-1_1024x1024_007b70be-90dd-48d6-b135-b36ee9d878ab.jpg?v=1526714302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chicha</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chicha</s:tag>
+    <s:tag>Chicha el chichero</s:tag>
+    <s:tag>El Chichero</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214560931867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>7591014037975</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214560669723</id>
+    <published>2017-10-17T14:45:07-04:00</published>
+    <updated>2017-10-17T14:45:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/cerelac"/>
+    <title>Cerelac</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/s-l300.png?v=1526714299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            6.75 - 13.50
+            <a href="https://antojoscriollos.com/products/cerelac">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cerelac</p>
+<p>Cereal con Leche</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cerelac</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214560669723</id>
+      <title>Cerelac Bolsa 400gr</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>7591016203729</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214560669723</id>
+      <title>Cerelac Bolsa 900gr</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>7591016201244</s:sku>
+      <s:grams>408233</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214560669723</id>
+      <title>Cerelac Lata 400gr</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>7591016201275</s:sku>
+      <s:grams>408233</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214549954587</id>
+    <published>2017-10-17T14:43:32-04:00</published>
+    <updated>2017-10-17T14:43:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/colitavenezolana"/>
+    <title>Colita Venezolana</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/colita_530x_d5ef8aec-d98b-4170-92c2-1c7f5e1a3658.jpg?v=1526714314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            1.00 - 18.00
+            <a href="https://antojoscriollos.com/products/colitavenezolana">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colita Venezolana</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colita</s:tag>
+    <s:tag>Colita Venezolana</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214549954587</id>
+      <title>Colita Venezolana 12oz</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>021883148238</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214549954587</id>
+      <title>Colita Venezolana Case 24</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>10036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214547365915</id>
+    <published>2017-10-17T14:43:07-04:00</published>
+    <updated>2017-10-17T14:43:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/nestea"/>
+    <title>Nestea</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/thUOUVQR9Q.jpg?v=1528312554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            0.85 - 4.55
+            <a href="https://antojoscriollos.com/products/nestea">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nestea</p>
+<p>Te de limon, durazno, parchita</p>
+<p>Sobre</p>
+<p>Bolsa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nestea</s:tag>
+    <s:tag>Nestea de Durazno</s:tag>
+    <s:tag>Nestea de limon</s:tag>
+    <s:tag>Nestea de Parchita</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214547365915</id>
+      <title>Nestea de Limon Sobre 90gr</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>7591016005965</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214547365915</id>
+      <title>Nestea de Durazno Sobre 90gr</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>7591016003671</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214547365915</id>
+      <title>Nestea de Parchita Sobre 90gr</title>
+      <s:price currency="USD">0.90</s:price>
+      <s:sku>01</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214547365915</id>
+      <title>Nestea de Limon Bolsa 450gr</title>
+      <s:price currency="USD">4.55</s:price>
+      <s:sku>7591016022474</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214547365915</id>
+      <title>Nestea de Durazno Bolsa 450gr</title>
+      <s:price currency="USD">4.55</s:price>
+      <s:sku>7591016022481</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214547267611</id>
+    <published>2017-10-17T14:43:05-04:00</published>
+    <updated>2017-10-17T14:43:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/toddy"/>
+    <title>Toddy</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/toddy-bebida-de-chocolate-400-grms-11.jpg?v=1526714407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            5.99 - 25.50
+            <a href="https://antojoscriollos.com/products/toddy">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toddy</p>
+<p>Leche Chocolatada</p>
+<p> </p>
+<p>Toddy 200gr</p>
+<p>Toddy 400gr</p>
+<p>Toddy 1KG</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toddy</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214547267611</id>
+      <title>Toddy 200gr</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7590006700019</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214547267611</id>
+      <title>Toddy 400gr</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>7590006700026</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214547267611</id>
+      <title>Toddy 1kg</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>7590006700064</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214546415643</id>
+    <published>2017-10-17T14:42:54-04:00</published>
+    <updated>2017-10-17T14:42:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/maltapolar"/>
+    <title>Malta Polar</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/malta-polar.jpg?v=1526714351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            1.50 - 25.00
+            <a href="https://antojoscriollos.com/products/maltapolar">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malta</s:tag>
+    <s:tag>Malta Polar</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546415643</id>
+      <title>Malta Polar 12oz</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>858810006015</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214546415643</id>
+      <title>Malta Polar Case 24</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>10021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

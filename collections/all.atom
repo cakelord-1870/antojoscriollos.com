@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/all.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2021-06-30T12:36:58-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/3892616101997</id>
+    <published>2021-06-30T12:36:58-04:00</published>
+    <updated>2021-06-30T12:36:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pandebono120unidades"/>
+    <title>Pandebono Crudo/Horneado</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_8e3182eb-6315-4afb-b2df-9af392b12b79.png?v=1589315526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            50.00 - 80.00
+            <a href="https://antojoscriollos.com/products/pandebono120unidades">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pandebono</p>
+<p>120 Unidades</p>
+<p>Crudis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pandebono</s:tag>
+    <s:tag>pandebono 120 unidades</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3892616101997</id>
+      <title>Pandebono 120 Unidades</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>10179</s:sku>
+      <s:grams>8845</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3892616101997</id>
+      <title>Pandebono Horneado 50 Unidades</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>10454</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/6574405255277</id>
+    <published>2021-05-12T11:16:31-04:00</published>
+    <updated>2021-05-12T11:16:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/rikesa"/>
+    <title>Rikesa</title>
+    <s:type>Golosinas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Golosinas<br>
+        <strong>Precio: </strong>
+            5.25 - 9.00
+            <a href="https://antojoscriollos.com/products/rikesa">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/6574405255277</id>
+      <title>200gr</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>75930288</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/6574405255277</id>
+      <title>300gr</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>7590006200151</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214540386331</id>
+    <published>2021-05-04T11:15:03-04:00</published>
+    <updated>2021-05-04T11:15:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/churros180unidades"/>
+    <title>Churros  210 Unidades</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_f3f31199-9f4a-492f-b8e1-1e425335eff4.png?v=1589314903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            68.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Churros </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Churros</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214540386331</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.80</s:price>
+      <s:sku>10002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214545465371</id>
+    <published>2021-04-05T13:23:56-04:00</published>
+    <updated>2021-04-05T13:23:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/salsadeajoycilantro16oz"/>
+    <title>Salsa Verde 16oz</title>
+    <s:type>Salsas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/IMG_0385.jpg?v=1526714397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Salsas<br>
+        <strong>Precio: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Salsa de Ajo y Cilantro</p>
+<p>16oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salsa de Ajo y CIlantro</s:tag>
+    <s:tag>Salsas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214545465371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>854631003332</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214539075611</id>
+    <published>2021-03-03T20:15:08-05:00</published>
+    <updated>2021-03-03T20:15:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/cachitosdejamon"/>
+    <title>Cachitos de Jamon</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Cachitosrellenos_f53458eb-4007-49db-bf5c-f56eab4b7296.jpg?v=1598286335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            7.25 - 84.00
+            <a href="https://antojoscriollos.com/products/cachitosdejamon">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cachitos de Jamon:</p>
+<p>6 Unidades</p>
+<p>20 Unidades</p>
+<p>50 Unidades Mini Cachitos</p>
+<p> </p>
+<p>Croassiant Relleno de Jamon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cachitos</s:tag>
+    <s:tag>Cachitos de Jamon</s:tag>
+    <s:tag>Cachitos Jamon</s:tag>
+    <s:tag>Mini Cachitos de Jamon</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 6 Unidades</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>854631003431</s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 20 Unidades</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>854631003448</s:sku>
+      <s:grams>3447</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Mini- Cachitos de Jamon 50 Unidades</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>854631003455</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon Pre-Cocidos 3 Unidades</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>709445798007</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Mini-cachitos Jamon 24 unidades</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>10428</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 60 Unidades</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>10078</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 30 Unidades Pre-Cocidos</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>10189</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 30 Unidades Crudos</title>
+      <s:price currency="USD">47.30</s:price>
+      <s:sku>10510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4905584033901</id>
+    <published>2021-02-11T14:08:02-05:00</published>
+    <updated>2021-02-11T14:08:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/panconguayaba"/>
+    <title>Pan con Guayaba</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4905584033901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.90</s:price>
+      <s:sku>10515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4886378348653</id>
+    <published>2021-01-18T11:24:02-05:00</published>
+    <updated>2021-01-18T11:24:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/fresskolita"/>
+    <title>Fresskolita</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            1.00 - 24.00
+            <a href="https://antojoscriollos.com/products/fresskolita">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4886378348653</id>
+      <title>Fresskolita Regular</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>852139000181</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4886378348653</id>
+      <title>Fresskolita Zero</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>8437017349099</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4886378348653</id>
+      <title>Fresskolita Regular Botella</title>
+      <s:price currency="USD">1.05</s:price>
+      <s:sku>021883148184</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4886378348653</id>
+      <title>Fresskolita Zero Botella</title>
+      <s:price currency="USD">1.20</s:price>
+      <s:sku>021883148191</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4886378348653</id>
+      <title>Fresskolita Caja 24 Unidades</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>10132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4886378348653</id>
+      <title>Fresskolita Zero Caja 24 Unidades</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>10134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4886378348653</id>
+      <title>Fresskolita Regular en Botella Case</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>10513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4886378348653</id>
+      <title>Fresskolita Zero en Botella Case</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>10514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780641157229</id>
+    <published>2020-08-18T11:00:04-04:00</published>
+    <updated>2020-08-18T11:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pandulce6unidades"/>
+    <title>Pan Dulce 9 Unidades</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Pandulce...jpg?v=1599577492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            5.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780641157229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.15</s:price>
+      <s:sku>709445797918</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780641124461</id>
+    <published>2020-08-18T11:00:04-04:00</published>
+    <updated>2020-08-18T11:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/panandino"/>
+    <title>Pan Andino</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/PanAndino.jpg?v=1599577377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            5.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>Pan Andino</strong></span></p>
+<p>Delicioso Pan Andino</p>
+<p><em>Mantener Congelado</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>andino</s:tag>
+    <s:tag>pan</s:tag>
+    <s:tag>pan andino</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780641124461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.70</s:price>
+      <s:sku>709445797956</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780640764013</id>
+    <published>2020-08-18T10:56:34-04:00</published>
+    <updated>2020-08-18T10:56:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/chicha"/>
+    <title>Chicha</title>
+    <s:type>Bebidas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName36.jpg?v=1597761177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Bebidas<br>
+        <strong>Precio: </strong>
+            3.15 - 6.30
+            <a href="https://antojoscriollos.com/products/chicha">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780640764013</id>
+      <title>16 oz</title>
+      <s:price currency="USD">3.15</s:price>
+      <s:sku>10422</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780640764013</id>
+      <title>32oz (1lt)</title>
+      <s:price currency="USD">6.30</s:price>
+      <s:sku>10500</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780661571693</id>
+    <published>2020-08-18T10:51:08-04:00</published>
+    <updated>2020-08-18T10:51:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/casabe8ozvenezolano"/>
+    <title>Casabe 8oz (Venezolano)</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Cassabito-2.jpg?v=1598287350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780661571693</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>7596814000013</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780658622573</id>
+    <published>2020-08-18T10:48:32-04:00</published>
+    <updated>2020-08-18T10:48:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/paneladepapelon"/>
+    <title>Panela de Papelon</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName52.jpg?v=1597762157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780658622573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>7591902000012</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780654690413</id>
+    <published>2020-08-18T10:44:55-04:00</published>
+    <updated>2020-08-18T10:44:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/marquesa"/>
+    <title>MARQUESA</title>
+    <s:type>Postres</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName_56.jpg?v=1597761969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Postres<br>
+        <strong>Precio: </strong>
+            3.50 - 12.50
+            <a href="https://antojoscriollos.com/products/marquesa">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Chocolate (5oz) Pequena</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>10429</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Chocolate Grande</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>10430</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Caramelo y almendras (5oz) Pequena</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>10431</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Caramelo y Almendras Grande</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>10432</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Limon 5oz</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>10474</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa  de Ferrero 5oz</title>
+      <s:price currency="USD">4.88</s:price>
+      <s:sku>10475</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780654690413</id>
+      <title>Marquesa de Arequipe 5oz</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>10476</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4759175430253</id>
+    <published>2020-07-20T17:00:08-04:00</published>
+    <updated>2020-07-20T17:00:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/palmitaantojoscriollos"/>
+    <title>Palmita Antojos Criollos</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/537402F0-6072-4405-BD69-1515CC5E558A.jpg?v=1596504621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            6.99 - 7.97
+            <a href="https://antojoscriollos.com/products/palmitaantojoscriollos">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4759175430253</id>
+      <title>5 Estrellas / /</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>854631003837</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4759175430253</id>
+      <title>En Cuna / /</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>709445797895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4712183332973</id>
+    <published>2020-06-03T10:52:30-04:00</published>
+    <updated>2020-06-03T10:52:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesosemi-maduro"/>
+    <title>Queso Fresco/ Semi-Duro 1lb</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName47.jpg?v=1597760644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4712183332973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>709445797925</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214549757979</id>
+    <published>2020-05-12T16:40:09-04:00</published>
+    <updated>2020-05-12T16:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/gorras"/>
+    <title>Gorras</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_94325c93-879b-4892-b638-0921aa716ae4.png?v=1589315209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorras Venezolanas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gorra</s:tag>
+    <s:tag>Gorra Vinotinto</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214549757979</id>
+      <title>Gorra Vinotinto</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214548283419</id>
+    <published>2020-05-12T16:40:09-04:00</published>
+    <updated>2020-05-12T16:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/ensaladadegallina"/>
+    <title>Ensalada de Gallina</title>
+    <s:type>Navideño</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_9d963b7a-60a5-466b-90a9-591d3e162486.png?v=1589314985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Navideño<br>
+        <strong>Precio: </strong>
+            8.00 - 12.00
+            <a href="https://antojoscriollos.com/products/ensaladadegallina">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ensalada de Gallina </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214548283419</id>
+      <title>Ensalada de Gallina 1lb</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>10026</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214548283419</id>
+      <title>Ensalada de Gallina Kosher 1lb</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>10027</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214562144283</id>
+    <published>2020-05-12T15:56:53-04:00</published>
+    <updated>2020-05-12T15:56:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/esculturavenezuela"/>
+    <title>Escultura Venezuela</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_380e00aa-063c-43f3-accf-b161e132c77b.png?v=1589315009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Escultura</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214562144283</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>10048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4608148734061</id>
+    <published>2020-05-05T10:15:28-04:00</published>
+    <updated>2020-05-05T10:15:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tostones25lb"/>
+    <title>Tostones 2lb</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/tostones..jpg?v=1599578083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4608148734061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10484</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4594040504429</id>
+    <published>2020-04-26T19:50:59-04:00</published>
+    <updated>2020-04-26T19:50:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesoaejo1lb"/>
+    <title>Queso Añejo 1lb</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/image_f24748d4-cdc8-4687-8832-92e48026e078.jpg?v=1587945401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4594040504429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>10472</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4543169101933</id>
+    <published>2020-03-18T09:51:39-04:00</published>
+    <updated>2020-03-18T09:51:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/globo-local-delivery"/>
+    <title>Local Delivery</title>
+    <s:type></s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/localdelivery.png?v=1584539499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4543169101933</id>
+      <title>0</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181437</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4543169036397</id>
+    <published>2020-03-18T09:51:35-04:00</published>
+    <updated>2020-03-18T09:51:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/globo-store-pickup"/>
+    <title>Store Pickup</title>
+    <s:type></s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo.png?v=1584539495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4543169036397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>99990000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/3937418575981</id>
+    <published>2020-03-17T09:18:33-04:00</published>
+    <updated>2020-03-17T09:18:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tequeospre-cocidos"/>
+    <title>Tequeños Pre-Cocidos</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Tequenos_36.jpg?v=1597852424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            15.90 - 90.00
+            <a href="https://antojoscriollos.com/products/tequeospre-cocidos">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tequenos Pre-fritos</p>
+<p>100 unidades</p>
+<p>40 Unidades</p>
+<p>20 Unidades</p>
+<p>Deditos de Queso</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tequenos</s:tag>
+    <s:tag>tequenos 40 p/c</s:tag>
+    <s:tag>tequenos p/c 100</s:tag>
+    <s:tag>Tequeños Pre-Cocidos</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequeños P/C 100 Unidades</title>
+      <s:price currency="USD">53.75</s:price>
+      <s:sku>854631003141</s:sku>
+      <s:grams>3084</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequenos Pre-cocidos 36 Unidades</title>
+      <s:price currency="USD">23.10</s:price>
+      <s:sku>854631003356</s:sku>
+      <s:grams>1547</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequenos Pre-cocidos 18 unidades</title>
+      <s:price currency="USD">15.90</s:price>
+      <s:sku>854631003097</s:sku>
+      <s:grams>866</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequeños P/C 40 Unidades</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>88888888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequeños P/C 20 Unidades</title>
+      <s:price currency="USD">17.50</s:price>
+      <s:sku>000000097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequeños P/C Jumbo 100 Unidades</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>10069</s:sku>
+      <s:grams>4468</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4454714998893</id>
+    <published>2019-12-19T10:20:26-05:00</published>
+    <updated>2019-12-19T10:20:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pulcerasdepucas"/>
+    <title>Pulceras de Pucas</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/85e4bc53659f05ec93a68ad795d3b1f5fa6f4156.jpg?v=1576768828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            7.50 - 10.50
+            <a href="https://antojoscriollos.com/products/pulcerasdepucas">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bisuteria</s:tag>
+    <s:tag>Pulceras</s:tag>
+    <s:tag>Pulceras Venezolanas</s:tag>
+    <s:tag>Pulceritas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4454714998893</id>
+      <title>Pulcera Avila de Noche Grande</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>10438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4454714998893</id>
+      <title>Pulcera Venezuela Pequena</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>10439</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4454714998893</id>
+      <title>Pulcera Cruz Diez Grande</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>10440</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4454714998893</id>
+      <title>Pulcera Avila de Dia Grande</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>10441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4441572671597</id>
+    <published>2019-12-11T11:05:37-05:00</published>
+    <updated>2019-12-11T11:05:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tortanegra"/>
+    <title>Torta Negra</title>
+    <s:type>Navideño</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/no-pic_8e901b3f-1512-432c-b7ce-33a08313682f.png?v=1587507041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Navideño<br>
+        <strong>Precio: </strong>
+            15.60 - 18.00
+            <a href="https://antojoscriollos.com/products/tortanegra">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Torta negra nadivena</p>
+<p> </p>
+<p>Con Lata</p>
+<p>Sin Lata</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navideno</s:tag>
+    <s:tag>Torta negra</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4441572671597</id>
+      <title>Torta Negra Con Lata</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>10055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4441572671597</id>
+      <title>Torta Negra Sin Lata</title>
+      <s:price currency="USD">15.60</s:price>
+      <s:sku>10056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

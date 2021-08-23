@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/variados.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2020-08-18T10:51:08-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780661571693</id>
+    <published>2020-08-18T10:51:08-04:00</published>
+    <updated>2020-08-18T10:51:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/casabe8ozvenezolano"/>
+    <title>Casabe 8oz (Venezolano)</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Cassabito-2.jpg?v=1598287350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780661571693</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>7596814000013</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780658622573</id>
+    <published>2020-08-18T10:48:32-04:00</published>
+    <updated>2020-08-18T10:48:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/paneladepapelon"/>
+    <title>Panela de Papelon</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName52.jpg?v=1597762157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780658622573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>7591902000012</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/3989898920045</id>
+    <published>2019-08-16T13:55:38-04:00</published>
+    <updated>2019-08-16T13:55:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/mantequillalactuario"/>
+    <title>Mantequilla Lactuario</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/lactuarios-maracay-mantequilla-venezolana-500x500.jpg?v=1573063733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            7.90 - 11.25
+            <a href="https://antojoscriollos.com/products/mantequillalactuario">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lacturario</s:tag>
+    <s:tag>Lacturario de Maracay</s:tag>
+    <s:tag>mantequilla</s:tag>
+    <s:tag>Mantequilla de Lactuario de Maracay</s:tag>
+    <s:tag>Mantequilla Lactuario</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3989898920045</id>
+      <title>Lata 300 gr</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>7591854000023</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3989898920045</id>
+      <title>Pote 250 gr</title>
+      <s:price currency="USD">7.90</s:price>
+      <s:sku>7591854000887</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/3989898461293</id>
+    <published>2019-08-16T13:55:29-04:00</published>
+    <updated>2019-08-16T13:55:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/margaritamavesa"/>
+    <title>Margarina Mavesa</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/mavesa.jpg?v=1573063758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3989898461293</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7590006200137</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/3884953862253</id>
+    <published>2019-06-28T13:02:50-04:00</published>
+    <updated>2019-06-28T13:02:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/ajidulcexlibra"/>
+    <title>Aji Dulce x Libra</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/image.jpg?v=1561999047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aji Dulce</s:tag>
+    <s:tag>Aji Venezolano</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3884953862253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10404</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214574465051</id>
+    <published>2018-09-21T15:12:33-04:00</published>
+    <updated>2018-09-21T15:12:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/lechelacampina"/>
+    <title>Leche La Campina</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/la-campina-450x450.jpg?v=1573063598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214574465051</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.75</s:price>
+      <s:sku>852139000396</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214574596123</id>
+    <published>2017-10-17T14:47:18-04:00</published>
+    <updated>2017-10-17T14:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/diablito"/>
+    <title>Diablito</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/diablito-underwood-60-grs.jpg?v=1526714318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            1.50 - 3.00
+            <a href="https://antojoscriollos.com/products/diablito">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214574596123</id>
+      <title>Diablito  4.25oz (Grande)</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>10147</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214574596123</id>
+      <title>Diablito 2.25 oz Pequeno</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>04781133</s:sku>
+      <s:grams>64</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214573973531</id>
+    <published>2017-10-17T14:47:13-04:00</published>
+    <updated>2017-10-17T14:47:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/casabe"/>
+    <title>Casabe</title>
+    <s:type>Golosinas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/cassava_bread.jpg?v=1526714298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Golosinas<br>
+        <strong>Precio: </strong>
+            1.75 - 3.00
+            <a href="https://antojoscriollos.com/products/casabe">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214573973531</id>
+      <title>Casabe Grande</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>042287802991</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214573973531</id>
+      <title>Casabe Small</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>042287802984</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214569451547</id>
+    <published>2017-10-17T14:46:29-04:00</published>
+    <updated>2017-10-17T14:46:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/casabito"/>
+    <title>Casabito</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName64.jpg?v=1597762421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ajo, Sesame y Tradicional</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214569451547</id>
+      <title>Casabito con Sesame</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>7596814000044</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214569451547</id>
+      <title>Casabito con Ajo</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>7596814000020</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214569451547</id>
+      <title>Casabito Original</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>7596814000037</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214566436891</id>
+    <published>2017-10-17T14:46:01-04:00</published>
+    <updated>2017-10-17T14:46:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/conchitascraize"/>
+    <title>Conchitas Craize</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/image1-1.jpg?v=1526714314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Conchas de arepa y Cachapa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566436891</id>
+      <title>Conchas de Arepa</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>860493002291</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566436891</id>
+      <title>Conchas de Cachapa</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>860001574913</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566436891</id>
+      <title>Conchitas de Platano</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>860001574906</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566436891</id>
+      <title>Conchas de semillas</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>860001574920</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566436891</id>
+      <title>Conchitas de Coco</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>860493002277</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566436891</id>
+      <title>Conchitas de Guayaba</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>860493002284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214564110363</id>
+    <published>2017-10-17T14:45:36-04:00</published>
+    <updated>2017-10-17T14:45:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/jarabedegranadinagarlin"/>
+    <title>Jarabe de Granadina Garlin</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/granandina.jpg?v=1588688808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Granadina Garlin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garlin</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214564110363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>865283000129</s:sku>
+      <s:grams>335</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214563848219</id>
+    <published>2017-10-17T14:45:35-04:00</published>
+    <updated>2017-10-17T14:45:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/jarabedegomagarlin"/>
+    <title>Jarabe de Goma Garlin</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/jarabedegoma.png?v=1526714343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jarabe Goma Garlin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garlin</s:tag>
+    <s:tag>Jarabe de goma</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214563848219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>865283000136</s:sku>
+      <s:grams>335</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214563356699</id>
+    <published>2017-10-17T14:45:31-04:00</published>
+    <updated>2017-10-17T14:45:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/adobolacomadre"/>
+    <title>Adobo la Comadre</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/VE00321.jpg?v=1526714288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            2.99 - 9.15
+            <a href="https://antojoscriollos.com/products/adobolacomadre">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adobo la comdra</p>
+<p> </p>
+<p>Adobo multiuso</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adobo</s:tag>
+    <s:tag>Adobo la comadre</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214563356699</id>
+      <title>Adobo la comadre 500gr</title>
+      <s:price currency="USD">9.15</s:price>
+      <s:sku>7591104486294</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214563356699</id>
+      <title>Adobo la comadre 200gr</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>7591104486300</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214563356699</id>
+      <title>Adobo la comadre 12oz</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>852139000662</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214560669723</id>
+    <published>2017-10-17T14:45:07-04:00</published>
+    <updated>2017-10-17T14:45:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/cerelac"/>
+    <title>Cerelac</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/s-l300.png?v=1526714299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            6.75 - 13.50
+            <a href="https://antojoscriollos.com/products/cerelac">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cerelac</p>
+<p>Cereal con Leche</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cerelac</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214560669723</id>
+      <title>Cerelac Bolsa 400gr</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>7591016203729</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214560669723</id>
+      <title>Cerelac Bolsa 900gr</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>7591016201244</s:sku>
+      <s:grams>408233</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214560669723</id>
+      <title>Cerelac Lata 400gr</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>7591016201275</s:sku>
+      <s:grams>408233</s:grams>
+    </s:variant>
+  </entry>
+</feed>

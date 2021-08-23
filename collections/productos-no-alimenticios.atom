@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/productos-no-alimenticios.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2020-05-12T16:40:09-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/214549757979</id>
+    <published>2020-05-12T16:40:09-04:00</published>
+    <updated>2020-05-12T16:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/gorras"/>
+    <title>Gorras</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_94325c93-879b-4892-b638-0921aa716ae4.png?v=1589315209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorras Venezolanas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gorra</s:tag>
+    <s:tag>Gorra Vinotinto</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214549757979</id>
+      <title>Gorra Vinotinto</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214562144283</id>
+    <published>2020-05-12T15:56:53-04:00</published>
+    <updated>2020-05-12T15:56:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/esculturavenezuela"/>
+    <title>Escultura Venezuela</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_380e00aa-063c-43f3-accf-b161e132c77b.png?v=1589315009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Escultura</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214562144283</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>10048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4454714998893</id>
+    <published>2019-12-19T10:20:26-05:00</published>
+    <updated>2019-12-19T10:20:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pulcerasdepucas"/>
+    <title>Pulceras de Pucas</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/85e4bc53659f05ec93a68ad795d3b1f5fa6f4156.jpg?v=1576768828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            7.50 - 10.50
+            <a href="https://antojoscriollos.com/products/pulcerasdepucas">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bisuteria</s:tag>
+    <s:tag>Pulceras</s:tag>
+    <s:tag>Pulceras Venezolanas</s:tag>
+    <s:tag>Pulceritas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4454714998893</id>
+      <title>Pulcera Avila de Noche Grande</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>10438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4454714998893</id>
+      <title>Pulcera Venezuela Pequena</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>10439</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4454714998893</id>
+      <title>Pulcera Cruz Diez Grande</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>10440</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4454714998893</id>
+      <title>Pulcera Avila de Dia Grande</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>10441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4160693403757</id>
+    <published>2019-09-24T11:27:09-04:00</published>
+    <updated>2019-09-24T11:27:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/gorrasvenezuela"/>
+    <title>Gorras Venezuela</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Unknown_44926d5c-b4e2-4115-8b39-e2a9bf240fbe.jpg?v=1589315234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cachucha</s:tag>
+    <s:tag>cachucha 7 estrellas</s:tag>
+    <s:tag>cachucha venezolana</s:tag>
+    <s:tag>gorra</s:tag>
+    <s:tag>Gorra 7 estrellas</s:tag>
+    <s:tag>Gorras Venezolanas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160693403757</id>
+      <title>Tricolor 7 estrellas</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>10339</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160693403757</id>
+      <title>Blanca 7 estrellas</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>10340</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/3944251883629</id>
+    <published>2019-07-22T15:58:51-04:00</published>
+    <updated>2019-07-22T15:58:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/hamacasliberty"/>
+    <title>Hamacas Liberty</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_717ddb91-77f2-4c14-8894-c0538eb69365.png?v=1589315304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hamaca</s:tag>
+    <s:tag>Hamaca Venezolana</s:tag>
+    <s:tag>Hamacas</s:tag>
+    <s:tag>Hamacas Venezolanas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3944251883629</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>10362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214562635803</id>
+    <published>2019-06-18T15:20:20-04:00</published>
+    <updated>2019-06-18T15:20:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/paletasvera"/>
+    <title>Paletas Vera</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_cff9e859-ade9-4e92-aad1-b1f206a13d3d.png?v=1589315357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paletas Artesania Vera para servir</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paletas vera</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214562635803</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>10049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214561882139</id>
+    <published>2019-02-07T16:29:48-05:00</published>
+    <updated>2019-02-07T16:29:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/llaverovenezuela"/>
+    <title>Llavero Venezuela</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_99bec38e-9f48-49af-acd4-27d76f1f2d39.png?v=1589315322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>llavero</s:tag>
+    <s:tag>Llavero Venezuela</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214561882139</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>10046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214561423387</id>
+    <published>2018-06-19T10:58:55-04:00</published>
+    <updated>2018-06-19T10:58:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/dominomadera"/>
+    <title>Domino Madera</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_003a90f9-2123-465d-9f64-3d8eb6cea0be.png?v=1589314942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            9.99 - 24.99
+            <a href="https://antojoscriollos.com/products/dominomadera">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Juego de Domino</p>
+<p> </p>
+<p>Pequeno</p>
+<p>Grande</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Domino</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214561423387</id>
+      <title>Domino Madera Pequeno</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>10044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214561423387</id>
+      <title>Domino Madera Grande</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214561259547</id>
+    <published>2018-06-19T10:58:55-04:00</published>
+    <updated>2018-06-19T10:58:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/chinchorrotricolor"/>
+    <title>Chinchorro Tricolor</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_6d0afd24-0394-4eb4-9bcc-04f5ef5248a0.png?v=1589314603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chinchorro</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214561259547</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>10043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214560997403</id>
+    <published>2018-06-19T10:58:54-04:00</published>
+    <updated>2018-06-19T10:58:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/cuatrocordoba"/>
+    <title>Cuatro Cordoba</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_071d8936-2d05-4585-b9a2-9f7a725d5dc5.png?v=1589314923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cuatro</p>
+<p>Instrumento Musical</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cuatro</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214560997403</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>10041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214572826651</id>
+    <published>2017-10-17T14:47:00-04:00</published>
+    <updated>2017-10-17T14:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pulceravenezuela"/>
+    <title>Pulcera Venezuela</title>
+    <s:type>Variados</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Variados<br>
+        <strong>Precio: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214572826651</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>10124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214560505883</id>
+    <published>2017-10-17T14:45:06-04:00</published>
+    <updated>2017-10-17T14:45:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pulceratejida"/>
+    <title>Pulcera Tejida</title>
+    <s:type>non-food items</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>non-food items<br>
+        <strong>Precio: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pulcera Tricolor Tejida</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pulcera</s:tag>
+    <s:tag>Pulcera Venezuela</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214560505883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>10040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

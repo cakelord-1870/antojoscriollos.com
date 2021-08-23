@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/salsas.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2021-04-05T13:23:56-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/214545465371</id>
+    <published>2021-04-05T13:23:56-04:00</published>
+    <updated>2021-04-05T13:23:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/salsadeajoycilantro16oz"/>
+    <title>Salsa Verde 16oz</title>
+    <s:type>Salsas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/IMG_0385.jpg?v=1526714397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Salsas<br>
+        <strong>Precio: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Salsa de Ajo y Cilantro</p>
+<p>16oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salsa de Ajo y CIlantro</s:tag>
+    <s:tag>Salsas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214545465371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>854631003332</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/3989908947053</id>
+    <published>2019-08-16T13:58:38-04:00</published>
+    <updated>2019-08-16T13:58:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/salsafritzpicante"/>
+    <title>Salsa Fritz Picante</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Salsa_Fritz_Picante_7591902001422_Mandalo_Spain.png?v=1573064585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3989908947053</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>7591902001422</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/3989908848749</id>
+    <published>2019-08-16T13:58:35-04:00</published>
+    <updated>2019-08-16T13:58:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/salsafritzajidulce"/>
+    <title>Salsa Fritz Aji Dulce</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Salsa_Fritz_aji_Dulce_Mandalo_Spain_Revista_Venezolana-800x800.png?v=1573064511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3989908848749</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>7591902002092</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/3989908783213</id>
+    <published>2019-08-16T13:58:34-04:00</published>
+    <updated>2019-08-16T13:58:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/salsafritzdemaiz"/>
+    <title>Salsa Fritz de Maiz</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Salsa-Fritz-2600x600.jpg?v=1573064549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3989908783213</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>7591902001330</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214574170139</id>
+    <published>2017-10-17T14:47:14-04:00</published>
+    <updated>2017-10-17T14:47:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/guasacaca1"/>
+    <title>Guasacaca</title>
+    <s:type>Salsas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/guasacacaa.jpg?v=1598984625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Salsas<br>
+        <strong>Precio: </strong>
+            8.00 - 12.75
+            <a href="https://antojoscriollos.com/products/guasacaca1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Guasacaca</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214574170139</id>
+      <title>Guasacaca 16oz</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>854631003707</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214574170139</id>
+      <title>Guasacaca 32oz</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>854631003325</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

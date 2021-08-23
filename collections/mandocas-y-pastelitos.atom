@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/mandocas-y-pastelitos.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2021-06-30T12:36:58-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/3892616101997</id>
+    <published>2021-06-30T12:36:58-04:00</published>
+    <updated>2021-06-30T12:36:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pandebono120unidades"/>
+    <title>Pandebono Crudo/Horneado</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_8e3182eb-6315-4afb-b2df-9af392b12b79.png?v=1589315526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            50.00 - 80.00
+            <a href="https://antojoscriollos.com/products/pandebono120unidades">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pandebono</p>
+<p>120 Unidades</p>
+<p>Crudis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pandebono</s:tag>
+    <s:tag>pandebono 120 unidades</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3892616101997</id>
+      <title>Pandebono 120 Unidades</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>10179</s:sku>
+      <s:grams>8845</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3892616101997</id>
+      <title>Pandebono Horneado 50 Unidades</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>10454</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214540386331</id>
+    <published>2021-05-04T11:15:03-04:00</published>
+    <updated>2021-05-04T11:15:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/churros180unidades"/>
+    <title>Churros  210 Unidades</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/logo_f3f31199-9f4a-492f-b8e1-1e425335eff4.png?v=1589314903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            68.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Churros </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Churros</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214540386331</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.80</s:price>
+      <s:sku>10002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214539075611</id>
+    <published>2021-03-03T20:15:08-05:00</published>
+    <updated>2021-03-03T20:15:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/cachitosdejamon"/>
+    <title>Cachitos de Jamon</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Cachitosrellenos_f53458eb-4007-49db-bf5c-f56eab4b7296.jpg?v=1598286335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            7.25 - 84.00
+            <a href="https://antojoscriollos.com/products/cachitosdejamon">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cachitos de Jamon:</p>
+<p>6 Unidades</p>
+<p>20 Unidades</p>
+<p>50 Unidades Mini Cachitos</p>
+<p> </p>
+<p>Croassiant Relleno de Jamon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cachitos</s:tag>
+    <s:tag>Cachitos de Jamon</s:tag>
+    <s:tag>Cachitos Jamon</s:tag>
+    <s:tag>Mini Cachitos de Jamon</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 6 Unidades</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>854631003431</s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 20 Unidades</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>854631003448</s:sku>
+      <s:grams>3447</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Mini- Cachitos de Jamon 50 Unidades</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>854631003455</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon Pre-Cocidos 3 Unidades</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>709445798007</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Mini-cachitos Jamon 24 unidades</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>10428</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 60 Unidades</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>10078</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 30 Unidades Pre-Cocidos</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>10189</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539075611</id>
+      <title>Cachitos de Jamon 30 Unidades Crudos</title>
+      <s:price currency="USD">47.30</s:price>
+      <s:sku>10510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4905584033901</id>
+    <published>2021-02-11T14:08:02-05:00</published>
+    <updated>2021-02-11T14:08:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/panconguayaba"/>
+    <title>Pan con Guayaba</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4905584033901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.90</s:price>
+      <s:sku>10515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4780641124461</id>
+    <published>2020-08-18T11:00:04-04:00</published>
+    <updated>2020-08-18T11:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/panandino"/>
+    <title>Pan Andino</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/PanAndino.jpg?v=1599577377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            5.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>Pan Andino</strong></span></p>
+<p>Delicioso Pan Andino</p>
+<p><em>Mantener Congelado</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>andino</s:tag>
+    <s:tag>pan</s:tag>
+    <s:tag>pan andino</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4780641124461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.70</s:price>
+      <s:sku>709445797956</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4160692846701</id>
+    <published>2019-09-24T11:26:53-04:00</published>
+    <updated>2019-09-24T11:26:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/churros16unidades"/>
+    <title>Churros 16 unidades</title>
+    <s:type>General</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/churros16Unid.jpg?v=1598984120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>churromania</s:tag>
+    <s:tag>churros</s:tag>
+    <s:tag>churros venezolanos</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160692846701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>854631003349</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214565617691</id>
+    <published>2017-10-17T14:45:53-04:00</published>
+    <updated>2017-10-17T14:45:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/cachitodequeso"/>
+    <title>Cachito de Queso</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Cachito_De_Queso1.jpg?v=1563985424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            7.50 - 88.00
+            <a href="https://antojoscriollos.com/products/cachitodequeso">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cachito de Queso</p>
+<p>6 Unidades</p>
+<p>20 Unidades</p>
+<p>60 Unidades</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cachito de Queso</s:tag>
+    <s:tag>Cachitos</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214565617691</id>
+      <title>Cachitos de Queso 6 Unidades</title>
+      <s:price currency="USD">13.25</s:price>
+      <s:sku>709445797864</s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214565617691</id>
+      <title>Cachitos de Queso 20 Unidades</title>
+      <s:price currency="USD">37.24</s:price>
+      <s:sku>10058</s:sku>
+      <s:grams>3447</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214565617691</id>
+      <title>cachito de queso pre-cocido 3 unidades</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>10071</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214565617691</id>
+      <title>Cachitos de Queso 60 Unidades</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>10059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214565617691</id>
+      <title>Cachitos PC Queso 30 Unidades</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>10090</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214544056347</id>
+    <published>2017-10-17T14:42:31-04:00</published>
+    <updated>2017-10-17T14:42:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pastelitosandinos"/>
+    <title>Pastelitos Andinos</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/PastelPollo.jpg?v=1563990885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            7.00 - 14.00
+            <a href="https://antojoscriollos.com/products/pastelitosandinos">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pastel Andino relleno de:</p>
+<p>Carne</p>
+<p>Pollo</p>
+<p>Queso y Papa</p>
+<p> </p>
+<p>9 Unidades o 18 Unidades</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pastel</s:tag>
+    <s:tag>pastelito andino</s:tag>
+    <s:tag>pastelito de carne</s:tag>
+    <s:tag>pastelito de pollo</s:tag>
+    <s:tag>pastelito de queso y papa</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544056347</id>
+      <title>Pastelito Andino de Carne 9 Unidades</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003585</s:sku>
+      <s:grams>257</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544056347</id>
+      <title>Pastelito Andino de Pollo 9 Unidades</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003592</s:sku>
+      <s:grams>257</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544056347</id>
+      <title>Pastelito Andino de Queso y Papa 9 Unidades</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003677</s:sku>
+      <s:grams>257</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544056347</id>
+      <title>Pastelito Andino de Carne 18 Unidades</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>854631003523</s:sku>
+      <s:grams>653</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544056347</id>
+      <title>Pastelito Andino de Pollo 18 Unidades</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>854631003530</s:sku>
+      <s:grams>653</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214544056347</id>
+      <title>Pastelito Andino de Queso y Papa 18 Unidades</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>854631003684</s:sku>
+      <s:grams>653</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214540714011</id>
+    <published>2017-10-17T14:41:59-04:00</published>
+    <updated>2017-10-17T14:41:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/mandocas8unidades"/>
+    <title>Mandocas 8 Unidades</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Mandoca.jpg?v=1563986076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aros de Platano Frito con Queso</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mandocas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214540714011</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>854631003776</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214539862043</id>
+    <published>2017-10-17T14:41:52-04:00</published>
+    <updated>2017-10-17T14:41:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/pandebono"/>
+    <title>Pandebono</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/PANDEBONOO.jpg?v=1599577597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pandebono</p>
+<p>10 Unidades</p>
+<p>100 Unidades</p>
+<p> </p>
+<p>Bolitas Rellenas de Queso</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pandebono</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539862043</id>
+      <title>Pandebono 10 unidades</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>854631003516</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/quesos-y-natas.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2020-07-20T17:00:08-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/4759175430253</id>
+    <published>2020-07-20T17:00:08-04:00</published>
+    <updated>2020-07-20T17:00:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/palmitaantojoscriollos"/>
+    <title>Palmita Antojos Criollos</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/537402F0-6072-4405-BD69-1515CC5E558A.jpg?v=1596504621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            6.99 - 7.97
+            <a href="https://antojoscriollos.com/products/palmitaantojoscriollos">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4759175430253</id>
+      <title>5 Estrellas / /</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>854631003837</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4759175430253</id>
+      <title>En Cuna / /</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>709445797895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4712183332973</id>
+    <published>2020-06-03T10:52:30-04:00</published>
+    <updated>2020-06-03T10:52:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesosemi-maduro"/>
+    <title>Queso Fresco/ Semi-Duro 1lb</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName47.jpg?v=1597760644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4712183332973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>709445797925</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4594040504429</id>
+    <published>2020-04-26T19:50:59-04:00</published>
+    <updated>2020-04-26T19:50:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesoaejo1lb"/>
+    <title>Queso Añejo 1lb</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/image_f24748d4-cdc8-4687-8832-92e48026e078.jpg?v=1587945401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4594040504429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>10472</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/1297778966637</id>
+    <published>2018-05-23T13:32:50-04:00</published>
+    <updated>2018-05-23T13:32:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/empanadas4unidadespc"/>
+    <title>Empanadas 4 Unidades P/C</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/2823_f06f250a-c96f-421f-af0b-ca46990072a5.jpg?v=1563985625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            8.99 - 9.15
+            <a href="https://antojoscriollos.com/products/empanadas4unidadespc">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deliciosas empanadas venezolanas pre-cocidas.</p>
+<p> </p>
+<p>Lista para <g class="gr_ gr_27 gr-alert gr_spell gr_inline_cards gr_disable_anim_appear ContextualSpelling ins-del multiReplace" id="27" data-gr-id="27">calentar</g> y <g class="gr_ gr_34 gr-alert gr_spell gr_inline_cards gr_disable_anim_appear ContextualSpelling ins-del multiReplace" id="34" data-gr-id="34">servir</g>.</p>
+<p> </p>
+<p>Sabores:</p>
+<p>-Carne Mechada</p>
+<p>-Carne Molida</p>
+<p>-Queso</p>
+<p>-Pollo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/1297778966637</id>
+      <title>Carne Molida</title>
+      <s:price currency="USD">9.15</s:price>
+      <s:sku>709445797970</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/1297778966637</id>
+      <title>Pollo</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>709445797963</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/1297778966637</id>
+      <title>Queso</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>709445797994</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/1297778966637</id>
+      <title>Carne Mechada</title>
+      <s:price currency="USD">9.15</s:price>
+      <s:sku>709445797987</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214572990491</id>
+    <published>2017-10-17T14:47:02-04:00</published>
+    <updated>2017-10-17T14:47:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesopalmitapalmiusa"/>
+    <title>Queso Palmita Palmiusa</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/IMG_0383.jpg?v=1526714393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            9.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Queso Palmita </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214572990491</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.38</s:price>
+      <s:sku>851502007000</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214572630043</id>
+    <published>2017-10-17T14:46:58-04:00</published>
+    <updated>2017-10-17T14:46:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesosemi-madurado"/>
+    <title>Queso Semi-Madurado</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/IMG_0384.jpg?v=1526714394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            6.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cachito de Queso</s:tag>
+    <s:tag>Queso Palmita</s:tag>
+    <s:tag>queso semi-madurado</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214572630043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.30</s:price>
+      <s:sku>851502007017</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214548938779</id>
+    <published>2017-10-17T14:43:23-04:00</published>
+    <updated>2017-10-17T14:43:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesopaisa"/>
+    <title>Queso Paisa</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/IMG_0406.jpg?v=1526714392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            5.99 - 6.28
+            <a href="https://antojoscriollos.com/products/quesopaisa">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Queso Paisa</p>
+<p>1/2 barra</p>
+<p>12 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Queso Paisa</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214548938779</id>
+      <title>Queso Paisa 12oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>838795000024</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214548938779</id>
+      <title>Queso Paisa 1/2 Barra</title>
+      <s:price currency="USD">6.28</s:price>
+      <s:sku>10033</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214537404443</id>
+    <published>2017-10-17T14:41:32-04:00</published>
+    <updated>2017-10-17T14:41:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/natacriolla"/>
+    <title>Nata Criolla</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/NATA8.jpg?v=1599142749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            4.15 - 12.15
+            <a href="https://antojoscriollos.com/products/natacriolla">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nata Criolla</p>
+<p>8oz</p>
+<p>16oz</p>
+<p>32oz</p>
+<p>Crema de Leche</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lacteos</s:tag>
+    <s:tag>Nata</s:tag>
+    <s:tag>Nata Criolla</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214537404443</id>
+      <title>Nata Criolla 8oz</title>
+      <s:price currency="USD">4.15</s:price>
+      <s:sku>854631003035</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214537404443</id>
+      <title>Nata Criolla 16oz</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>854631003042</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214537404443</id>
+      <title>Nata Criolla 32oz</title>
+      <s:price currency="USD">12.15</s:price>
+      <s:sku>854631003059</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214537404443</id>
+      <title>Nata Criolla x Libra</title>
+      <s:price currency="USD">4.20</s:price>
+      <s:sku>10473</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214537207835</id>
+    <published>2017-10-17T14:41:29-04:00</published>
+    <updated>2017-10-17T14:41:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesotelita2lb"/>
+    <title>Queso Telita 2lb</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Quesotelita.jpg?v=1599577869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Queso Telita- Single Layer 2lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lacteos</s:tag>
+    <s:tag>Queso Telita</s:tag>
+    <s:tag>Quesos</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214537207835</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>854631003714</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214536650779</id>
+    <published>2017-10-17T14:41:27-04:00</published>
+    <updated>2017-10-17T14:41:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesollanero"/>
+    <title>Queso Llanero</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName_48.jpg?v=1597760845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            0.00 - 9.00
+            <a href="https://antojoscriollos.com/products/quesollanero">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Queso Llanero</p>
+<p>Rallado</p>
+<p>Entero</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lacteos</s:tag>
+    <s:tag>Queso Llanero</s:tag>
+    <s:tag>Quesos</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214536650779</id>
+      <title>Queso Llanero Rallado</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>854631003288</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214536650779</id>
+      <title>Queso Llanero Entero</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>854631003691</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214536650779</id>
+      <title>Queso llanero 3lb</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>10529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214536650779</id>
+      <title>Llanero Rallado 25lb</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>10542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214536355867</id>
+    <published>2017-10-17T14:41:24-04:00</published>
+    <updated>2017-10-17T14:41:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesoguayanes"/>
+    <title>Queso Guayanes</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/EmptyName_40.jpg?v=1597760734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            8.00 - 24.00
+            <a href="https://antojoscriollos.com/products/quesoguayanes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Queso Guayanes:</p>
+<p>1lb</p>
+<p>2lb</p>
+<p>4lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lacteos</s:tag>
+    <s:tag>Quesos</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214536355867</id>
+      <title>Queso Guayanes 1lb</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>854631003066</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214536355867</id>
+      <title>Queso Guayanes 2lb</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>854631003011</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214536355867</id>
+      <title>Queso Guayanes 4lb</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>854631003004</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214535831579</id>
+    <published>2017-10-17T14:41:21-04:00</published>
+    <updated>2017-10-17T14:41:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/quesodemano"/>
+    <title>Queso de Mano</title>
+    <s:type>Lacteos</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Queso_de_Mano.jpg?v=1597852105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Lacteos<br>
+        <strong>Precio: </strong>
+            0.00 - 12.00
+            <a href="https://antojoscriollos.com/products/quesodemano">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Queso de Mano:</p>
+<ul>
+<li>3 Unidades para cachapas 20oz</li>
+<li>Mini Queso de Mano - 5 unidades para arepas 1lb</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Products</s:tag>
+    <s:tag>Quesos</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214535831579</id>
+      <title>Queso de Mano 24oz</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>854631003028</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214535831579</id>
+      <title>Mini Queso de Mano 1lb</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>854631003127</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214535831579</id>
+      <title>18oz</title>
+      <s:price currency="USD">10.15</s:price>
+      <s:sku>10470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214535831579</id>
+      <title>24oz</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>10469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214535831579</id>
+      <title>Mano 2 Units (1lb)</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>709445798069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

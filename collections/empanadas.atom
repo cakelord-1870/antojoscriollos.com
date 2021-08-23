@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/empanadas.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2019-09-24T11:26:34-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/4160691863661</id>
+    <published>2019-09-24T11:26:34-04:00</published>
+    <updated>2019-09-24T11:26:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/arepasandina4unidades"/>
+    <title>Arepas Andina 4 unidades</title>
+    <s:type>Arepas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/andina.jpg?v=1598284721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Arepas<br>
+        <strong>Precio: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160691863661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>709445797949</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4160691699821</id>
+    <published>2019-09-24T11:26:30-04:00</published>
+    <updated>2019-09-24T11:26:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/arepademaizpilado"/>
+    <title>Arepa de Maiz Pilado</title>
+    <s:type>Arepas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/arepamaizpilado.jpg?v=1585155444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Arepas<br>
+        <strong>Precio: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160691699821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>709445797932</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214540124187</id>
+    <published>2018-06-19T10:58:54-04:00</published>
+    <updated>2018-06-19T10:58:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/empanadascolombianas"/>
+    <title>Empanadas Colombianas</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/empcolom.jpg?v=1598985137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pastel Colombiano Rellenos de Carne Molida</p>
+<p><em><strong>Conservacion:</strong></em></p>
+<p>Mantener congeladas</p>
+<p><em><strong>Coccion:</strong></em></p>
+<p>Calentar en el horno de 10-15 minutos directo del congelador</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Empanadas</s:tag>
+    <s:tag>Empanadas Colombianas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214540124187</id>
+      <title>Empanadas Colombianas 8 Unidades</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>854631003509</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/1297778966637</id>
+    <published>2018-05-23T13:32:50-04:00</published>
+    <updated>2018-05-23T13:32:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/empanadas4unidadespc"/>
+    <title>Empanadas 4 Unidades P/C</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/2823_f06f250a-c96f-421f-af0b-ca46990072a5.jpg?v=1563985625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            8.99 - 9.15
+            <a href="https://antojoscriollos.com/products/empanadas4unidadespc">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deliciosas empanadas venezolanas pre-cocidas.</p>
+<p> </p>
+<p>Lista para <g class="gr_ gr_27 gr-alert gr_spell gr_inline_cards gr_disable_anim_appear ContextualSpelling ins-del multiReplace" id="27" data-gr-id="27">calentar</g> y <g class="gr_ gr_34 gr-alert gr_spell gr_inline_cards gr_disable_anim_appear ContextualSpelling ins-del multiReplace" id="34" data-gr-id="34">servir</g>.</p>
+<p> </p>
+<p>Sabores:</p>
+<p>-Carne Mechada</p>
+<p>-Carne Molida</p>
+<p>-Queso</p>
+<p>-Pollo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/1297778966637</id>
+      <title>Carne Molida</title>
+      <s:price currency="USD">9.15</s:price>
+      <s:sku>709445797970</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/1297778966637</id>
+      <title>Pollo</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>709445797963</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/1297778966637</id>
+      <title>Queso</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>709445797994</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/1297778966637</id>
+      <title>Carne Mechada</title>
+      <s:price currency="USD">9.15</s:price>
+      <s:sku>709445797987</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214539304987</id>
+    <published>2017-12-17T12:11:31-05:00</published>
+    <updated>2017-12-17T12:11:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/empanadasvenezolanas5unidades"/>
+    <title>Empanadas Venezolanas 5 Unidades</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/2823.jpg?v=1526714321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Empanadas Venezolanas 5 Unidades</p>
+<p>Carne Mechada</p>
+<p>Carne Molida</p>
+<p>Pollo </p>
+<p>Queso</p>
+<p> </p>
+<p>Pastel relleno </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539304987</id>
+      <title>Empanadas Carne Mechada 5 Unidades</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>854631003462</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539304987</id>
+      <title>Empanadas Carne Molida 5 Unidades</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>854631003479</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539304987</id>
+      <title>Empanadas Queso 5 Unidades</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>854631003486</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214539304987</id>
+      <title>Empanadas Pollo 5 Unidades</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>854631003493</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/412917956635</id>
+    <published>2017-12-06T11:01:48-05:00</published>
+    <updated>2017-12-06T11:01:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/arepassaborizadas"/>
+    <title>Arepas Saborizadas</title>
+    <s:type>Arepas</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/ArepaChicharron.jpg?v=1563984454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Arepas<br>
+        <strong>Precio: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arepas de Queso, Platano, Anis, Chicharron y Maiz Dulce</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/412917956635</id>
+      <title>Arepas de Platano 12  Unidades</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>865068000269</s:sku>
+      <s:grams>549</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/412917956635</id>
+      <title>Arepas de Anis 12  Unidades</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>860568000221</s:sku>
+      <s:grams>549</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/412917956635</id>
+      <title>Arepas de Maiz Dulce 12 Unidades</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>10237</s:sku>
+      <s:grams>549</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/412917956635</id>
+      <title>Arepas de Chicharron 12 Unidades</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>860568000245</s:sku>
+      <s:grams>549</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/412917956635</id>
+      <title>Arepas de Queso 12  Unidades</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>860568000207</s:sku>
+      <s:grams>549</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/301695926299</id>
+    <published>2017-11-08T14:57:12-05:00</published>
+    <updated>2017-11-08T14:57:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/empanadasgourmet"/>
+    <title>Empanadas Gourmet</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Empanadas.jpg?v=1563985760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            9.55 - 28.50
+            <a href="https://antojoscriollos.com/products/empanadasgourmet">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Asado Negro 24 Unidades</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>10172</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Espinaca 24 Unidades</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>10174</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Leek 24 Unidades</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>10175</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Hongos 24 Unidades</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>10176</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Huevo y Tocineta 24 Unidades</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>10196</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Asado Negro 7 Unidades</title>
+      <s:price currency="USD">10.80</s:price>
+      <s:sku>10197</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Espinaca 7  Unidades</title>
+      <s:price currency="USD">9.55</s:price>
+      <s:sku>10198</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Leek 7 Unidades</title>
+      <s:price currency="USD">9.55</s:price>
+      <s:sku>10199</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Hongos 7 Unidades</title>
+      <s:price currency="USD">9.55</s:price>
+      <s:sku>10200</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/301695926299</id>
+      <title>Huevo y Tocineta 7 Unidades</title>
+      <s:price currency="USD">9.55</s:price>
+      <s:sku>10201</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214554083355</id>
+    <published>2017-10-17T14:44:13-04:00</published>
+    <updated>2017-10-17T14:44:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/arepasregulares6unidades"/>
+    <title>Arepas Regulares 6 Unidades</title>
+    <s:type>Arepas</s:type>
+    <s:vendor>Zerpa&apos;s Antojos Criollos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/2853.jpg?v=1563984316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Zerpa&#39;s Antojos Criollos<br>
+        <strong>Tipo: </strong>Arepas<br>
+        <strong>Precio: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Unidades</p>
+<p><em><strong>Conservacion:</strong></em></p>
+<p><em></em>Mantener congeladas</p>
+<p><em><strong>Coccion:</strong></em><br></p>
+<p><em>Colocar el producto </em>en la nevera la noche anterior, y cocinar en una plancha, sarten o arepera.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arepa</s:tag>
+    <s:tag>Arepa Venezolana</s:tag>
+    <s:tag>Arepas</s:tag>
+    <s:tag>arepas venezolanas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214554083355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>10039</s:sku>
+      <s:grams>776</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214541434907</id>
+    <published>2017-10-17T14:42:05-04:00</published>
+    <updated>2017-10-17T14:42:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/mini-empanadascrudas"/>
+    <title>Mini-Empanadas Crudas</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/MiniEmpqueso25raw.jpg?v=1599141814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            19.50 - 36.00
+            <a href="https://antojoscriollos.com/products/mini-empanadascrudas">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Pastel Venezolano crudo relleno de:</p>
+<p> </p>
+<p>Carne Mechada</p>
+<p>Carne Molida</p>
+<p>Pollo</p>
+<p>Queso</p>
+<p> </p>
+<p>25 Unidades o 50 Unidades</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>empanadas</s:tag>
+    <s:tag>Mini Cachapas</s:tag>
+    <s:tag>mini empanadas</s:tag>
+    <s:tag>mini empanadas crudas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541434907</id>
+      <title>Mini Empanadas Crudas Carne Mechada (25)</title>
+      <s:price currency="USD">21.10</s:price>
+      <s:sku>709445797673</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541434907</id>
+      <title>Mini Empanadas Crudas Carne Molida (25)</title>
+      <s:price currency="USD">21.10</s:price>
+      <s:sku>709445797680</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541434907</id>
+      <title>Mini Empanadas Crudas Pollo (25)</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>709445797703</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541434907</id>
+      <title>Mini Empanadas Crudas Queso (25)</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>709445797697</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541434907</id>
+      <title>Mini Empanadas Crudas Carne Mechada (50)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>709445797710</s:sku>
+      <s:grams>1411</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541434907</id>
+      <title>Mini Empanadas Crudas Carne Molida (50)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>709445797727</s:sku>
+      <s:grams>1411</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541434907</id>
+      <title>Mini Empanadas Crudas Pollo (50)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>709445797741</s:sku>
+      <s:grams>1411</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541434907</id>
+      <title>Mini Empanadas Crudas Queso (50)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>709445797734</s:sku>
+      <s:grams>1411</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214541008923</id>
+    <published>2017-10-17T14:42:01-04:00</published>
+    <updated>2017-10-17T14:42:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/mini-empanadaspc"/>
+    <title>Mini-Empanadas P/C</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/MiniEmpMolidaPC50.jpg?v=1599142460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            22.50 - 38.00
+            <a href="https://antojoscriollos.com/products/mini-empanadaspc">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Pastel relleno de :</p>
+<p>25 U o 50 U</p>
+<p>Carne Mechada</p>
+<p>Carne Molida</p>
+<p>Pollo</p>
+<p>Queso</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>empanadas</s:tag>
+    <s:tag>Mini Cachapas</s:tag>
+    <s:tag>mini empanadas</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541008923</id>
+      <title>Mini Empanadas P/C Carne Mechada (25)</title>
+      <s:price currency="USD">22.90</s:price>
+      <s:sku>709445798090</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541008923</id>
+      <title>Mini Empanadas P/C Carne Molida (25)</title>
+      <s:price currency="USD">22.90</s:price>
+      <s:sku>709445798144</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541008923</id>
+      <title>Mini Empanadas P/C Queso (25)</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>709445798168</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541008923</id>
+      <title>Mini Empanadas P/C Pollo (25)</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>709445798151</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541008923</id>
+      <title>Mini Empanadas P/C Carne Mechada (50)</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>709445798106</s:sku>
+      <s:grams>1411</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541008923</id>
+      <title>Mini Empanadas P/C Carne Molida (50)</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>709445798113</s:sku>
+      <s:grams>1411</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541008923</id>
+      <title>Mini Empanadas P/C Queso (50)</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>709445798137</s:sku>
+      <s:grams>1411</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214541008923</id>
+      <title>Mini Empanadas P/C Pollo (50)</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>709445798120</s:sku>
+      <s:grams>1411</s:grams>
+    </s:variant>
+  </entry>
+</feed>

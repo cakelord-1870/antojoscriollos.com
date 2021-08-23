@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antojoscriollos.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antojoscriollos.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antojoscriollos.com/collections/tequenos.atom"/>
+  <title>Zerpa&apos;s Antojos Criollos</title>
+  <updated>2020-03-17T09:18:33-04:00</updated>
+  <author>
+    <name>Zerpa&apos;s Antojos Criollos</name>
+  </author>
+  <entry>
+    <id>https://antojoscriollos.com/products/3937418575981</id>
+    <published>2020-03-17T09:18:33-04:00</published>
+    <updated>2020-03-17T09:18:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tequeospre-cocidos"/>
+    <title>Tequeños Pre-Cocidos</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Tequenos_36.jpg?v=1597852424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            15.90 - 90.00
+            <a href="https://antojoscriollos.com/products/tequeospre-cocidos">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tequenos Pre-fritos</p>
+<p>100 unidades</p>
+<p>40 Unidades</p>
+<p>20 Unidades</p>
+<p>Deditos de Queso</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tequenos</s:tag>
+    <s:tag>tequenos 40 p/c</s:tag>
+    <s:tag>tequenos p/c 100</s:tag>
+    <s:tag>Tequeños Pre-Cocidos</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequeños P/C 100 Unidades</title>
+      <s:price currency="USD">53.75</s:price>
+      <s:sku>854631003141</s:sku>
+      <s:grams>3084</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequenos Pre-cocidos 36 Unidades</title>
+      <s:price currency="USD">23.10</s:price>
+      <s:sku>854631003356</s:sku>
+      <s:grams>1547</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequenos Pre-cocidos 18 unidades</title>
+      <s:price currency="USD">15.90</s:price>
+      <s:sku>854631003097</s:sku>
+      <s:grams>866</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequeños P/C 40 Unidades</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>88888888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequeños P/C 20 Unidades</title>
+      <s:price currency="USD">17.50</s:price>
+      <s:sku>000000097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/3937418575981</id>
+      <title>Tequeños P/C Jumbo 100 Unidades</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>10069</s:sku>
+      <s:grams>4468</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4160696418413</id>
+    <published>2019-09-24T11:28:18-04:00</published>
+    <updated>2019-09-24T11:28:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tequenosdemaizprecocido"/>
+    <title>Tequenos de Maiz Precocido</title>
+    <s:type>General</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Tequenos_de_Maiz_de_36.jpg?v=1597853715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>General<br>
+        <strong>Precio: </strong>
+            7.75 - 50.00
+            <a href="https://antojoscriollos.com/products/tequenosdemaizprecocido">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160696418413</id>
+      <title>Tequeno de Maiz 12 unidades pc</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>854631003196</s:sku>
+      <s:grams>535</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160696418413</id>
+      <title>Tequeno de Maiz 36 Unidades pc</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>709445798045</s:sku>
+      <s:grams>1520</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160696418413</id>
+      <title>Tequenos de Maiz 100 Unidades pc</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>10492</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/4160696254573</id>
+    <published>2019-09-24T11:28:13-04:00</published>
+    <updated>2019-09-24T11:28:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tequenodeplatanoprecocido"/>
+    <title>Tequeno de Platano Precocido</title>
+    <s:type>Tequeños</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Teuenos_de_platano_12.jpg?v=1597854030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Tequeños<br>
+        <strong>Precio: </strong>
+            7.75 - 45.00
+            <a href="https://antojoscriollos.com/products/tequenodeplatanoprecocido">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160696254573</id>
+      <title>Tequeno de Platano PC 12 unidades</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>709445797833</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160696254573</id>
+      <title>Tequeno de Platano PC 36 Unidades</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>709445797840</s:sku>
+      <s:grams>1520</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/4160696254573</id>
+      <title>Tequeno de Platano PC 100 Unidades</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>10466</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214566993947</id>
+    <published>2017-10-17T14:46:06-04:00</published>
+    <updated>2017-10-17T14:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tequeosdeguayaba"/>
+    <title>Tequeños de Guayaba</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/image_b931eb8a-7e43-4184-8077-9e210f4d5c00.jpg?v=1562162388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            17.75 - 92.00
+            <a href="https://antojoscriollos.com/products/tequeosdeguayaba">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tequeños de Guayaba</p>
+<p> </p>
+<p>20 Unidades</p>
+<p>40 Unidades</p>
+<p>Jumbo p/c 100 Unidades</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tequeños de Guayaba</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566993947</id>
+      <title>Tequeños de Guayaba 20 Unidades</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>10064</s:sku>
+      <s:grams>1093</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566993947</id>
+      <title>Tequeños de Guayaba 40 Unidades</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>10065</s:sku>
+      <s:grams>1547</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566993947</id>
+      <title>Tequeños de Guayaba Jumbo P/C 100 Unidades</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>10066</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214566993947</id>
+      <title>Tequeños de Guayaba 100  Unidades</title>
+      <s:price currency="USD">53.50</s:price>
+      <s:sku>10186</s:sku>
+      <s:grams>3084</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antojoscriollos.com/products/214538682395</id>
+    <published>2017-10-17T14:41:44-04:00</published>
+    <updated>2017-10-17T14:41:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antojoscriollos.com/products/tequeoscrudos"/>
+    <title>Tequeños Crudos</title>
+    <s:type>Pasteleria</s:type>
+    <s:vendor>Not specified</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1587/9859/products/Tequenos_100_Crudo.jpg?v=1597853136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Not specified<br>
+        <strong>Tipo: </strong>Pasteleria<br>
+        <strong>Precio: </strong>
+            13.30 - 85.00
+            <a href="https://antojoscriollos.com/products/tequeoscrudos">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tequenos Crudos</p>
+<p>100 Unidades</p>
+<p>40 Unidades </p>
+<p>20 Unidades</p>
+<p>Dedidos de Queso Crudos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tequenos</s:tag>
+    <s:tag>tequenos crudos</s:tag>
+    <s:tag>tequenos crudos 100</s:tag>
+    <s:tag>tequenos crudos 20</s:tag>
+    <s:tag>tequenos crudos 40</s:tag>
+    <s:tag>tequenos raw</s:tag>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214538682395</id>
+      <title>Tequeños Crudos 20 Unidades</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>8989</s:sku>
+      <s:grams>776</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214538682395</id>
+      <title>Tequeños Crudos 40 Unidades</title>
+      <s:price currency="USD">20.50</s:price>
+      <s:sku>100000009</s:sku>
+      <s:grams>1551</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214538682395</id>
+      <title>Tequeños Crudos 100 Unidades</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>854631003110</s:sku>
+      <s:grams>3084</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214538682395</id>
+      <title>Tequeños Jumbo Crudos 100Unidades</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>10068</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214538682395</id>
+      <title>Tequenos Crudos 36 Unidades</title>
+      <s:price currency="USD">18.75</s:price>
+      <s:sku>854631003103</s:sku>
+      <s:grams>1551</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://antojoscriollos.com/products/214538682395</id>
+      <title>Tequenos Crudos 18 Unidades</title>
+      <s:price currency="USD">13.30</s:price>
+      <s:sku>854631003134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
